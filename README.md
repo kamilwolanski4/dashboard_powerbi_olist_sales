@@ -29,7 +29,7 @@ Klienci: ~96K
 
 Produkty: ~33K
 
-### Key insights
+# Key insights
 ### Sales & growth
 
 Wzrost liczby zamówień był dynamiczny do końca 2017 r., po czym uległ stabilizacji.
