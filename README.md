@@ -1,7 +1,6 @@
-# E-commerce Data Analysis (Power BI, SQL)
-## Project objective
+# Olist sales Data Analysis (Power BI, SQL)
 
-## Analiza danych e-commerce w celu oceny:
+## Analiza danych olist w celu oceny:
 
 - trendów sprzedażowych i stabilności wzrostu,
 
