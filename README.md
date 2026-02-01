@@ -3,23 +3,21 @@
 
 ## Analiza danych e-commerce w celu oceny:
 
-trendów sprzedażowych i stabilności wzrostu,
+- trendów sprzedażowych i stabilności wzrostu,
 
-zachowań klientów i retencji,
+- zachowań klientów i retencji,
 
-wpływu logistyki na satysfakcję i anulacje,
+- wpływu logistyki na satysfakcję i anulacje,
 
-efektywności sprzedawców i produktów.
+- efektywności sprzedawców i produktów.
 
-Tools
+## Tools
 
-SQL – czyszczenie danych, agregacje, łączenie tabel
+### SQL – czyszczenie danych, agregacje, łączenie tabel
 
-Power BI – model danych, miary DAX, dashboard analityczny
+### Power BI – model danych, miary DAX, dashboard analityczny
 
-EDA – analiza trendów, korelacji i rozkładów
-
-Data overview
+## Data overview
 
 Okres: 2016–2020
 
@@ -31,8 +29,8 @@ Klienci: ~96K
 
 Produkty: ~33K
 
-Key insights
-Sales & growth
+### Key insights
+### Sales & growth
 
 Wzrost liczby zamówień był dynamiczny do końca 2017 r., po czym uległ stabilizacji.
 
